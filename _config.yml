@@ -8,8 +8,8 @@ email: winston1017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Winston's blog on about everything in life - utilizing github pages and jekyll. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: winston1017
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
 github_username:  winston1017
 
 # Build settings
